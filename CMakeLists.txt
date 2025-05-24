@@ -9,4 +9,8 @@ add_executable(RailwaySystemSimulationSoftware main.cpp
         welcome.cpp
         SetFiles.h
         SetFiles.cpp
+        setting.cpp
+        setting.h
+        simulation.h
+        simulation.cpp
 )
